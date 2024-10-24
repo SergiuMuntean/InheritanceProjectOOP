@@ -461,6 +461,5 @@ Optiune gresita. Reintroduceti optiunea.
 Dati optiunea: 0
 Iesire din program.
 
-D:\POO\Lab3Ex4\x64\Debug\Lab3Ex4.exe (process 11376) exited with code 0 (0x0).
 To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
 Press any key to close this window . . .
