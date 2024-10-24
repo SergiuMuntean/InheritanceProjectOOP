@@ -1,0 +1,466 @@
+This is how you test the program for a set of inputs:
+
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 1
+Introduceti tipul de persoana:(a-e):
+a
+Introduceti numarul de studenti de licenta: 2
+Introduceti numele: Muntean
+Introduceti prenumele: Sergiu
+Introduceti nota: 9
+Introduceti seria: 1
+Introduceti titlul licentei: POO
+Introduceti numele: Popescu
+Introduceti prenumele: Alina
+Introduceti nota: 8
+Introduceti seria: 2
+Introduceti titlul licentei: EA
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 2
+
+Persoanele existe sunt:
+Studenti de licenta (2):
+Nume: Muntean
+Prenume: Sergiu
+Nota: 9
+Serie: 1
+Titlul licentei: POO
+
+Nume: Popescu
+Prenume: Alina
+Nota: 8
+Serie: 2
+Titlul licentei: EA
+
+Studenti de master (0):
+Studenti de doctorat (0):
+Profesori (0):
+Ingineri (0):
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 1
+Introduceti tipul de persoana:(a-e):
+b
+Introduceti numarul de studenti de disertatie: 2
+Introduceti numele: Georgescu
+Introduceti prenumele: Alex
+Introduceti nota: 9
+Introduceti seria: 2
+Introduceti titlul disertatiei: FC
+Introduceti numele: Ionascu
+Introduceti prenumele: Alexandru
+Introduceti nota: 10
+Introduceti seria: 7
+Introduceti titlul disertatiei: Psihologie
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 2
+
+Persoanele existe sunt:
+Studenti de licenta (2):
+Nume: Muntean
+Prenume: Sergiu
+Nota: 9
+Serie: 1
+Titlul licentei: POO
+
+Nume: Popescu
+Prenume: Alina
+Nota: 8
+Serie: 2
+Titlul licentei: EA
+
+Studenti de master (2):
+Nume: Georgescu
+Prenume: Alex
+Nota: 9
+Serie: 2
+Titlul disertatiei: FC
+
+Nume: Ionascu
+Prenume: Alexandru
+Nota: 10
+Serie: 7
+Titlul disertatiei: Psihologie
+
+Studenti de doctorat (0):
+Profesori (0):
+Ingineri (0):
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 1
+Introduceti tipul de persoana:(a-e):
+c
+Introduceti numarul de studenti doctoranzi: 3
+Introduceti numele: Andrada
+Introduceti prenumele: Tomoni
+Introduceti nota: 10
+Introduceti seria: 5
+Introduceti titlul disertatiei: Medicina imagistica
+Introduceti numele: Dregoesc
+Introduceti prenumele: Anca
+Introduceti nota: 9
+Introduceti seria: 6
+Introduceti titlul disertatiei: Medicina pediatrica
+Introduceti numele: Muresan
+Introduceti prenumele: Gabriela
+Introduceti nota: 3
+Introduceti seria: 10
+Introduceti titlul disertatiei: Psihologie clinica
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 2
+
+Persoanele existe sunt:
+Studenti de licenta (2):
+Nume: Muntean
+Prenume: Sergiu
+Nota: 9
+Serie: 1
+Titlul licentei: POO
+
+Nume: Popescu
+Prenume: Alina
+Nota: 8
+Serie: 2
+Titlul licentei: EA
+
+Studenti de master (2):
+Nume: Georgescu
+Prenume: Alex
+Nota: 9
+Serie: 2
+Titlul disertatiei: FC
+
+Nume: Ionascu
+Prenume: Alexandru
+Nota: 10
+Serie: 7
+Titlul disertatiei: Psihologie
+
+Studenti de doctorat (3):
+Nume: Andrada
+Prenume: Tomoni
+Nota: 10
+Serie: 5
+Titlul tezei de doctorat: Medicina imagistica
+
+Nume: Dregoesc
+Prenume: Anca
+Nota: 9
+Serie: 6
+Titlul tezei de doctorat: Medicina pediatrica
+
+Nume: Muresan
+Prenume: Gabriela
+Nota: 3
+Serie: 10
+Titlul tezei de doctorat: Psihologie clinica
+
+Profesori (0):
+Ingineri (0):
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 1
+Introduceti tipul de persoana:(a-e):
+d
+Introduceti numarul de profesori: 1
+Introduceti numele: Pastinaru
+Introduceti prenumele: Constantin
+Introduceti salariul: 4500
+Introduceti gradul didactic: 3
+Introduceti vechimea: 20
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 2
+
+Persoanele existe sunt:
+Studenti de licenta (2):
+Nume: Muntean
+Prenume: Sergiu
+Nota: 9
+Serie: 1
+Titlul licentei: POO
+
+Nume: Popescu
+Prenume: Alina
+Nota: 8
+Serie: 2
+Titlul licentei: EA
+
+Studenti de master (2):
+Nume: Georgescu
+Prenume: Alex
+Nota: 9
+Serie: 2
+Titlul disertatiei: FC
+
+Nume: Ionascu
+Prenume: Alexandru
+Nota: 10
+Serie: 7
+Titlul disertatiei: Psihologie
+
+Studenti de doctorat (3):
+Nume: Andrada
+Prenume: Tomoni
+Nota: 10
+Serie: 5
+Titlul tezei de doctorat: Medicina imagistica
+
+Nume: Dregoesc
+Prenume: Anca
+Nota: 9
+Serie: 6
+Titlul tezei de doctorat: Medicina pediatrica
+
+Nume: Muresan
+Prenume: Gabriela
+Nota: 3
+Serie: 10
+Titlul tezei de doctorat: Psihologie clinica
+
+Profesori (1):
+Nume: Pastinaru
+Prenume: Constantin
+Salariu: 4500
+Vechime: 20
+Gradul didactic: 3
+
+Ingineri (0):
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 1
+Introduceti tipul de persoana:(a-e):
+e
+Introduceti numarul de ingineri:
+3
+Introduceti numele: Radoni
+Intrdocueti prenumele: Tudor
+Introduceti salariul: 7000
+Introduceti postul ocupat: Inginer it
+Introduceti vechimea: 1
+Introduceti numele: Duna
+Intrdocueti prenumele: Alexandru
+Introduceti salariul: 8000
+Introduceti postul ocupat: Inginer Software
+Introduceti vechimea: 1
+Introduceti numele: Farcas
+Intrdocueti prenumele: Andrei
+Introduceti salariul: 4000
+Introduceti postul ocupat: Inginer Youtuber
+Introduceti vechimea: 4
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 2
+
+Persoanele existe sunt:
+Studenti de licenta (2):
+Nume: Muntean
+Prenume: Sergiu
+Nota: 9
+Serie: 1
+Titlul licentei: POO
+
+Nume: Popescu
+Prenume: Alina
+Nota: 8
+Serie: 2
+Titlul licentei: EA
+
+Studenti de master (2):
+Nume: Georgescu
+Prenume: Alex
+Nota: 9
+Serie: 2
+Titlul disertatiei: FC
+
+Nume: Ionascu
+Prenume: Alexandru
+Nota: 10
+Serie: 7
+Titlul disertatiei: Psihologie
+
+Studenti de doctorat (3):
+Nume: Andrada
+Prenume: Tomoni
+Nota: 10
+Serie: 5
+Titlul tezei de doctorat: Medicina imagistica
+
+Nume: Dregoesc
+Prenume: Anca
+Nota: 9
+Serie: 6
+Titlul tezei de doctorat: Medicina pediatrica
+
+Nume: Muresan
+Prenume: Gabriela
+Nota: 3
+Serie: 10
+Titlul tezei de doctorat: Psihologie clinica
+
+Profesori (1):
+Nume: Pastinaru
+Prenume: Constantin
+Salariu: 4500
+Vechime: 20
+Gradul didactic: 3
+
+Ingineri (3):
+Nume: Radoni
+Prenume: Tudor
+Salariu: 7000
+Vechime: 1
+Postul ocupat: Inginer it
+
+Nume: Duna
+Prenume: Alexandru
+Salariu: 8000
+Vechime: 1
+Postul ocupat: Inginer Software
+
+Nume: Farcas
+Prenume: Andrei
+Salariu: 4000
+Vechime: 4
+Postul ocupat: Inginer Youtuber
+
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 3
+Introduceti numele persoanei de cautat: Muntean
+Am gasit studentul de licenta cu numele: Muntean
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 4
+Introduceti prenumele persoanei pe care doriti sa o stergeti: Alexandru
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 2
+
+Persoanele existe sunt:
+Studenti de licenta (2):
+Nume: Muntean
+Prenume: Sergiu
+Nota: 9
+Serie: 1
+Titlul licentei: POO
+
+Nume: Popescu
+Prenume: Alina
+Nota: 8
+Serie: 2
+Titlul licentei: EA
+
+Studenti de master (1):
+Nume: Georgescu
+Prenume: Alex
+Nota: 9
+Serie: 2
+Titlul disertatiei: FC
+
+Studenti de doctorat (3):
+Nume: Andrada
+Prenume: Tomoni
+Nota: 10
+Serie: 5
+Titlul tezei de doctorat: Medicina imagistica
+
+Nume: Dregoesc
+Prenume: Anca
+Nota: 9
+Serie: 6
+Titlul tezei de doctorat: Medicina pediatrica
+
+Nume: Muresan
+Prenume: Gabriela
+Nota: 3
+Serie: 10
+Titlul tezei de doctorat: Psihologie clinica
+
+Profesori (1):
+Nume: Pastinaru
+Prenume: Constantin
+Salariu: 4500
+Vechime: 20
+Gradul didactic: 3
+
+Ingineri (3):
+Nume: Radoni
+Prenume: Tudor
+Salariu: 7000
+Vechime: 1
+Postul ocupat: Inginer it
+
+Nume: Duna
+Prenume: Alexandru
+Salariu: 8000
+Vechime: 1
+Postul ocupat: Inginer Software
+
+Nume: Farcas
+Prenume: Andrei
+Salariu: 4000
+Vechime: 4
+Postul ocupat: Inginer Youtuber
+
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: -1
+Optiune gresita. Reintroduceti optiunea.
+1 - Introduceti tipul de Persoana:(a - licenta, b - master, c - doctorat, d - profesor, e - inginer
+2 - Afisati toate persoanele.
+3 - Cautati o persoana dupa nume.
+4 - Stergeti o persoana dupa nume.
+0 - Iesire
+Dati optiunea: 0
+Iesire din program.
+
+D:\POO\Lab3Ex4\x64\Debug\Lab3Ex4.exe (process 11376) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
