@@ -14,7 +14,7 @@ Clone the repository or copy the code into your IDE.
 Compile and run the program.
 
 ## How It Works:
-Person class: Base class storing personal information (name, surname).
-Student class: Derived from Person, with additional attributes like grade and series.
-Professors & Engineers: Specialized versions of Angajat, containing salary and experience.
-The program uses a switch menu for users to interact with the system.
+### Person class: Base class storing personal information (name, surname).
+### Student class: Derived from Person, with additional attributes like grade and series.
+### Professors & Engineers: Specialized versions of Angajat, containing salary and experience.
+### The program uses a switch menu for users to interact with the system.
